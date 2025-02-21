@@ -1,0 +1,28 @@
+<style>
+body {
+background-image:url('Screenshot_20250103-120835_1.jpg');"=width"300";
+width:100vw;
+height:100vw;
+background-attachment: fixed;
+background-size:100% 120%;
+background-repeat: no-repeat;
+}
+body {
+background-image:url('Screenshot_20250103-120835_1.jpg');"=width"300";
+width:100vw;
+height:100vw;
+background-attachment: fixed;
+background-size:100% 120%;
+background-repeat: no-repeat;
+}
+img {border-radius:16px;}
+table {
+color: blue ;
+}
+h1,h2,h3,h4 {
+color: red;
+}
+p { 
+color: yellow;
+}
+</style>
